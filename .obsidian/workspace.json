@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/Dashboard.md",
+                "file": "5 - Templates/Daily Note.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Inbox/Dashboard.md",
+                "file": "5 - Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "af78a8cb229bb2be",
   "lastOpenFiles": [
-    "1 - Daily Notes/12-19-2022.md",
-    "0 - Inbox/Dashboard.md",
-    "5 - Templates/Atomized Note.md",
+    "5 - Templates/Reference Note.md",
     "5 - Templates/Complex Atomized Note.md",
+    "5 - Templates/Atomized Note.md",
+    "0 - Inbox/Dashboard.md",
+    "1 - Daily Notes/12-19-2022.md",
     "5 - Templates/Daily Note.md",
     "1 - Daily Notes/12-18-2022.md",
     "1 - Daily Notes/12-16-2022.md",
     "3 - Slip-Box/Test.md",
-    "3 - Slip-Box/Untitled.md",
-    "Test.md"
+    "3 - Slip-Box/Untitled.md"
   ]
 }
