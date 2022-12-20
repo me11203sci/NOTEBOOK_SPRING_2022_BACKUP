@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "4 - Files",
+  "newFileFolderPath": "3 - Slip-Box",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "trashOption": "local"
+}
