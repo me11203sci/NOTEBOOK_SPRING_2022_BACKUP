@@ -12,7 +12,7 @@
 - [ ] Practice Japanese on [Duolingo](https://www.duolingo.com/learn).
 - [ ] Practice [typing](https://10fastfingers.com/typing-test/english).
 - [ ] (PLACEHOLDER TEXT).
-- [ ] Mark as completed and move note to **0 - Inbox/{{date:MMMM}}**.
+- [ ] Mark **{{title}} Daily Note** as completed and move note to **0 - Inbox/{{date:MMMM}}**.
 ### Ideas:
 ---
 - (PLACEHOLDER TEXT).
