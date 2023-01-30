@@ -263,6 +263,9 @@ Tuesday
 Thursday
 Turn
 Theory
+Transcribe
+Telescopic
+Transitivity
 Move
 Monday
 Multiplexer
@@ -512,6 +515,9 @@ MMMM
 Manual
 MIT
 Marble
+Mathematically
+Methods
+Maintenance
 to
 the
 that
@@ -783,6 +789,9 @@ technical
 talking
 transitions
 tuple
+thereby
+terminate
+theta
 Inbox
 Ideas
 Idea
@@ -1014,6 +1023,8 @@ Incredibly
 Incomplete
 Isopropel
 Incremental
+Install
+Induction
 Atomize
 Anode
 Also
@@ -1296,6 +1307,8 @@ Algorithmic
 Analysis
 Automata
 Automation
+About
+Area
 notes
 number
 not
@@ -1737,6 +1750,7 @@ boolean
 booleans
 blue
 bowl
+bounded
 Daily
 Data
 Dummy
@@ -1982,6 +1996,10 @@ Directed
 Detail
 Dickey
 Decidability
+Direct
+Divergence
+Diapole
+Drawn
 Notes
 NOTE
 Notice
@@ -2181,6 +2199,7 @@ Nadendla
 Neutrally
 Net
 Nomenclature
+Need
 Structures
 Static
 Similar
@@ -2479,6 +2498,11 @@ Stein
 Scholar
 Systems
 Science
+Step
+Sequences
+Symmetry
+Substitution
+Star
 Homework
 Hypothesis
 Hull
@@ -2987,6 +3011,8 @@ Reworded
 Ronald
 Rivest
 Runtime
+Reflexivity
+Regular
 on
 of
 output
@@ -3226,6 +3252,9 @@ ols
 overlap
 once
 opposites
+obtain
+originate
+operation
 page
 pointers
 program
@@ -3532,6 +3561,10 @@ presence
 precise
 preforms
 prefers
+polar
+proof
+proposition
+proving
 does
 destructor
 derived
@@ -3859,6 +3892,11 @@ develop
 describes
 delivered
 difficult
+defines
+dealt
+diverges
+diapole
+demonstrated
 match
 mirror
 many
@@ -4168,6 +4206,8 @@ marble
 machine
 mathematics
 math
+maps
+mathe
 error
 each
 execution
@@ -4447,6 +4487,9 @@ email
 electrically
 exerted
 encapsulate
+exits
+electric
+encoded
 is
 its
 it
@@ -4737,6 +4780,9 @@ incomplete
 intrinsic
 inherent
 instructions
+involve
+intersect
+indirectly
 returned
 result
 referred
@@ -5057,6 +5103,14 @@ recitation
 repel
 roll
 regular
+radians
+ratio
+reliant
+regards
+recognized
+recognize
+reco
+recognizes
 hints
 handled
 have
@@ -5585,6 +5639,8 @@ actual
 automation
 alphabet
 accept
+arc
+automaton
 Under
 Unless
 Unbiased
@@ -5778,6 +5834,7 @@ Ups
 Unconnected
 Undirected
 Unstable
+Union
 class
 calls
 classes
@@ -6160,6 +6217,13 @@ computing
 characters
 comprise
 character
+credit
+cards
+coordinates
+contradiction
+converges
+connecting
+cartesian
 unnecessary
 used
 using
@@ -6340,6 +6404,8 @@ undirected
 understand
 unstable
 useful
+utitlizes
+utilizes
 so
 shapes
 same
@@ -6727,6 +6793,11 @@ slightly
 signs
 string
 symbols
+sandwiched
+show
+simplest
+series
+simultaneously
 free
 for
 force
@@ -7354,6 +7425,7 @@ vaporization
 vertices
 volume
 vertex
+vectors
 Polymorphism
 Physics
 Particles
@@ -7631,6 +7703,8 @@ Portfolio
 Parking
 Press
 Persian
+Proof
+Prove
 Greek
 Given
 Gaussian
@@ -8298,6 +8372,10 @@ Lot
 Lab
 Level
 Leiserson
+Length
+Lines
+Languages
+Let
 Quiz
 Quizzes
 Questions
@@ -8953,6 +9031,7 @@ Walk
 Way
 Wash
 Whether
+While
 Circuit
 Construct
 Confidence
@@ -9247,6 +9326,9 @@ Computer
 Correctness
 Computability
 Cartesian
+Contrapostive
+Convergence
+Concatenation
 lines
 leftmost
 last
@@ -9870,6 +9952,7 @@ graph
 gases
 games
 grading
+guess
 XOR
 Xor
 XNOR
@@ -10478,6 +10561,8 @@ Flowcharts
 Finite
 Formal
 Finally
+February
+Flux
 known
 know
 keeps
@@ -10873,6 +10958,7 @@ Biscuit
 Butter
 Boundried
 Bub
+Based
 Kay
 Kepler
 Kinematics
