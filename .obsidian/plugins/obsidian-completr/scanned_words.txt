@@ -266,6 +266,7 @@ Theory
 Transcribe
 Telescopic
 Transitivity
+Temporary
 Move
 Monday
 Multiplexer
@@ -518,6 +519,8 @@ Marble
 Mathematically
 Methods
 Maintenance
+Modify
+McNutt
 to
 the
 that
@@ -792,6 +795,9 @@ tuple
 thereby
 terminate
 theta
+tomorrow
+take
+temporary
 Inbox
 Ideas
 Idea
@@ -1025,6 +1031,7 @@ Isopropel
 Incremental
 Install
 Induction
+Insertion
 Atomize
 Anode
 Also
@@ -1309,6 +1316,7 @@ Automata
 Automation
 About
 Area
+Automatons
 notes
 number
 not
@@ -1519,6 +1527,7 @@ note
 nadendla
 needs
 natural
+needed
 back
 big
 bottom
@@ -1751,6 +1760,8 @@ booleans
 blue
 bowl
 bounded
+battery
+branches
 Daily
 Data
 Dummy
@@ -2000,6 +2011,8 @@ Direct
 Divergence
 Diapole
 Drawn
+DFAs
+DFA
 Notes
 NOTE
 Notice
@@ -2200,6 +2213,9 @@ Neutrally
 Net
 Nomenclature
 Need
+Notation
+NFAs
+NFA
 Structures
 Static
 Similar
@@ -2503,6 +2519,9 @@ Sequences
 Symmetry
 Substitution
 Star
+Sort
+Stacks
+Starts
 Homework
 Hypothesis
 Hull
@@ -3565,6 +3584,11 @@ polar
 proof
 proposition
 proving
+potential
+proximity
+proton
+push
+powerful
 does
 destructor
 derived
@@ -3897,6 +3921,8 @@ dealt
 diverges
 diapole
 demonstrated
+determining
+deterministic
 match
 mirror
 many
@@ -4208,6 +4234,7 @@ mathematics
 math
 maps
 mathe
+might
 error
 each
 execution
@@ -4490,6 +4517,8 @@ encapsulate
 exits
 electric
 encoded
+electron
+enegry
 is
 its
 it
@@ -4783,6 +4812,8 @@ instructions
 involve
 intersect
 indirectly
+infinite
+includes
 returned
 result
 referred
@@ -5111,6 +5142,7 @@ recognized
 recognize
 reco
 recognizes
+reaches
 hints
 handled
 have
@@ -5641,6 +5673,11 @@ alphabet
 accept
 arc
 automaton
+asserting
+accepted
+automatons
+agnostic
+asymptotic
 Under
 Unless
 Unbiased
@@ -6224,6 +6261,10 @@ contradiction
 converges
 connecting
 cartesian
+conservative
+contribution
+cardinality
+centered
 unnecessary
 used
 using
@@ -6406,6 +6447,7 @@ unstable
 useful
 utitlizes
 utilizes
+unique
 so
 shapes
 same
@@ -6798,6 +6840,19 @@ show
 simplest
 series
 simultaneously
+substitution
+surmise
+speci
+signifies
+sort
+sorting
+stacks
+sorted
+stack
+sqrt
+symmetry
+similarity
+simpler
 free
 for
 force
@@ -7042,6 +7097,8 @@ format
 felt
 formal
 finite
+frac
+flux
 within
 which
 were
@@ -7705,6 +7762,8 @@ Press
 Persian
 Proof
 Prove
+Potential
+Per
 Greek
 Given
 Gaussian
@@ -8162,7 +8221,6 @@ Laws
 Line
 Litany
 Lowest
-LEAD
 Leak
 Levels
 Left
@@ -8812,6 +8870,7 @@ Efficiency
 Empty
 Edition
 Electric
+Electron
 Wednesday
 We
 War
@@ -9329,6 +9388,13 @@ Cartesian
 Contrapostive
 Convergence
 Concatenation
+Cylindrical
+Columb
+Change
+Create
+Counting
+Coloumb
+Computation
 lines
 leftmost
 last
@@ -9548,6 +9614,8 @@ local
 leds
 lent
 languages
+long
+lectiue
 VDD
 Variance
 Value
@@ -9749,6 +9817,8 @@ VhmYs
 Vacuum
 Vegetables
 Vocabulary
+Volts
+Volt
 ground
 get
 given
@@ -9953,6 +10023,8 @@ gases
 games
 grading
 guess
+guesswork
+gains
 XOR
 Xor
 XNOR
@@ -10563,6 +10635,7 @@ Formal
 Finally
 February
 Flux
+Fermi
 known
 know
 keeps
@@ -10959,6 +11032,7 @@ Butter
 Boundried
 Bub
 Based
+Big
 Kay
 Kepler
 Kinematics
@@ -11152,6 +11226,7 @@ Kummer
 Kelvin
 Khowarzmi
 Knowledge
+Kinetic
 Young
 York
 YS

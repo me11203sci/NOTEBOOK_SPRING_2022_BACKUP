@@ -118,5 +118,24 @@
       ],
       "key": "Y"
     }
-  ]
+  ],
+  "obsidian-completr:completr-select-next-suggestion": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-completr:completr-select-previous-suggestion": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }

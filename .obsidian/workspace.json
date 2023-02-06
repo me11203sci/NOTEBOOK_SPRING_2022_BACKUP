@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b209ee4e9218c72c",
+        "id": "5a64ceb00947f4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e13d81aeeb361c79",
+            "id": "5c6b7e645ecb6b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Daily Notes/01-30-2023.md",
-                "mode": "source",
+                "file": "0 - Inbox/January/01-27-2023.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b8eb41c302e6d6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Daily Notes/02-01-2023.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Daily Notes/01-30-2023.md",
+                "file": "0 - Inbox/January/01-27-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +172,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e13d81aeeb361c79",
+  "active": "5c6b7e645ecb6b0c",
   "lastOpenFiles": [
-    "1 - Daily Notes/01-27-2023.md",
-    "1 - Daily Notes/Untitled.md",
-    "1 - Daily Notes/Untitled 2.md",
+    "1 - Daily Notes/02-01-2023.md",
+    "1 - Daily Notes/02-03-2023.md",
+    "1 - Daily Notes/02-02-2023.md",
+    "0 - Inbox/January/01-25-2023.md",
     "0 - Inbox/Dashboard.md",
-    "1 - Daily Notes/Untitled 1.md",
-    "1 - Daily Notes/01-26-2023.md",
-    "1 - Daily Notes/01-25-2023.md",
-    "1 - Daily Notes/01-24-2023.md",
-    "1 - Daily Notes/01-23-2023.md",
-    "1 - Daily Notes/01-20-2023.md"
+    "1 - Daily Notes/Untitled.md",
+    "0 - Inbox/January/01-27-2023.md",
+    "0 - Inbox/January/01-31-2023.md",
+    "0 - Inbox/January/01-30-2023.md",
+    "1 - Daily Notes/Untitled 2.md"
   ]
 }

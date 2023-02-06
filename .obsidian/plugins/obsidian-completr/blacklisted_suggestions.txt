@@ -10,3 +10,4 @@ worse
 Words
 World
 WORDLE
+LEAD
