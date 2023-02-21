@@ -267,6 +267,7 @@ Transcribe
 Telescopic
 Transitivity
 Temporary
+That
 Move
 Monday
 Multiplexer
@@ -521,6 +522,7 @@ Methods
 Maintenance
 Modify
 McNutt
+Merge
 to
 the
 that
@@ -798,6 +800,7 @@ theta
 tomorrow
 take
 temporary
+thought
 Inbox
 Ideas
 Idea
@@ -1033,6 +1036,7 @@ Install
 Induction
 Insertion
 Important
+Instantaneous
 Atomize
 Anode
 Also
@@ -1319,6 +1323,8 @@ About
 Area
 Automatons
 Algor
+Automations
+Amount
 notes
 number
 not
@@ -1530,6 +1536,7 @@ nadendla
 needs
 natural
 needed
+nonregular
 back
 big
 bottom
@@ -1764,6 +1771,7 @@ bowl
 bounded
 battery
 branches
+better
 Daily
 Data
 Dummy
@@ -2016,6 +2024,7 @@ Drawn
 DFAs
 DFA
 Disjointed
+Dielectrics
 Notes
 NOTE
 Notice
@@ -2219,6 +2228,7 @@ Need
 Notation
 NFAs
 NFA
+Nondeterministic
 Structures
 Static
 Similar
@@ -2525,6 +2535,7 @@ Star
 Sort
 Stacks
 Starts
+Sorting
 Homework
 Hypothesis
 Hull
@@ -2753,6 +2764,8 @@ Hot
 Howdy
 Health
 Howser
+Heaps
+Heapify
 Random
 Read
 Review
@@ -3036,6 +3049,7 @@ Runtime
 Reflexivity
 Regular
 Randomization
+Radix
 on
 of
 output
@@ -3594,6 +3608,12 @@ proton
 push
 powerful
 physical
+parent
+plate
+plates
+pumping
+pieces
+particularity
 does
 destructor
 derived
@@ -3928,6 +3948,9 @@ diapole
 demonstrated
 determining
 deterministic
+desd
+divided
+drift
 match
 mirror
 many
@@ -4241,6 +4264,9 @@ maps
 mathe
 might
 manifest
+merge
+macroscopic
+microscopic
 error
 each
 execution
@@ -4527,6 +4553,9 @@ electron
 enegry
 encryption
 expectations
+entries
+entire
+evaluates
 is
 its
 it
@@ -4823,6 +4852,9 @@ indirectly
 infinite
 includes
 indicator
+increasing
+iterative
+integral
 returned
 result
 referred
@@ -5155,6 +5187,9 @@ reaches
 repeatable
 reasonable
 reduce
+resources
+requiring
+refer
 hints
 handled
 have
@@ -5365,6 +5400,7 @@ html
 hdmi
 his
 hard
+heapify
 at
 automatically
 after
@@ -5690,6 +5726,10 @@ accepted
 automatons
 agnostic
 asymptotic
+arrange
+arrangement
+amps
+accurate
 Under
 Unless
 Unbiased
@@ -6277,6 +6317,13 @@ conservative
 contribution
 cardinality
 centered
+considers
+concatenation
+conductive
+counterexample
+concerned
+carrier
+conductiv
 unnecessary
 used
 using
@@ -6461,6 +6508,7 @@ utitlizes
 utilizes
 unique
 uncertainty
+usually
 so
 shapes
 same
@@ -6867,6 +6915,9 @@ symmetry
 similarity
 simpler
 schools
+strings
+shorthand
+straight
 free
 for
 force
@@ -7497,6 +7548,7 @@ vertices
 volume
 vertex
 vectors
+view
 Polymorphism
 Physics
 Particles
@@ -7779,6 +7831,8 @@ Prove
 Potential
 Per
 Probabilistic
+Placing
+Pumping
 Greek
 Given
 Gaussian
@@ -7990,6 +8044,10 @@ Going
 Graph
 Gas
 Goodwill
+Give
+Generalized
+GNFA
+Generally
 Objects
 Other
 Original
@@ -8225,6 +8283,7 @@ Overlapping
 Oxnard
 Optional
 Operating
+Ohm
 Logic
 Linear
 Law
@@ -8449,6 +8508,7 @@ Length
 Lines
 Languages
 Let
+Lemma
 Quiz
 Quizzes
 Questions
@@ -8653,6 +8713,7 @@ QFIEbrH
 Qiz
 QEg
 QHy
+Quick
 Exam
 Energy
 Elastic
@@ -8887,6 +8948,8 @@ Edition
 Electric
 Electron
 Expected
+Effects
+Explosion
 Wednesday
 We
 War
@@ -9107,6 +9170,7 @@ Way
 Wash
 Whether
 While
+Worst
 Circuit
 Construct
 Confidence
@@ -9411,6 +9475,10 @@ Create
 Counting
 Coloumb
 Computation
+Caveat
+Capacitor
+Capacitors
+Current
 lines
 leftmost
 last
@@ -9632,6 +9700,8 @@ lent
 languages
 long
 lectiue
+layer
+limit
 VDD
 Variance
 Value
@@ -10042,6 +10112,7 @@ guess
 guesswork
 gains
 generators
+generated
 XOR
 Xor
 XNOR
@@ -10654,6 +10725,7 @@ February
 Flux
 Fermi
 Frequentist
+FAs
 known
 know
 keeps
@@ -11052,6 +11124,8 @@ Bub
 Based
 Big
 Bayesians
+Best
+Build
 Kay
 Kepler
 Kinematics
