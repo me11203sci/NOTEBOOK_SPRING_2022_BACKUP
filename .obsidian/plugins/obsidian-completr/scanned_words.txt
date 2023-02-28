@@ -1037,6 +1037,7 @@ Induction
 Insertion
 Important
 Instantaneous
+Integrate
 Atomize
 Anode
 Also
@@ -1537,6 +1538,7 @@ needs
 natural
 needed
 nonregular
+nothing
 back
 big
 bottom
@@ -1772,6 +1774,7 @@ bounded
 battery
 branches
 better
+begin
 Daily
 Data
 Dummy
@@ -2025,6 +2028,7 @@ DFAs
 DFA
 Disjointed
 Dielectrics
+Derivations
 Notes
 NOTE
 Notice
@@ -2229,6 +2233,7 @@ Notation
 NFAs
 NFA
 Nondeterministic
+Nouns
 Structures
 Static
 Similar
@@ -3050,6 +3055,9 @@ Reflexivity
 Regular
 Randomization
 Radix
+Resistivity
+Resistance
+Rigid
 on
 of
 output
@@ -3292,6 +3300,8 @@ opposites
 obtain
 originate
 operation
+ohm
+ohmic
 page
 pointers
 program
@@ -3614,6 +3624,11 @@ plates
 pumping
 pieces
 particularity
+partition
+particular
+preform
+preformed
+paths
 does
 destructor
 derived
@@ -3951,6 +3966,9 @@ deterministic
 desd
 divided
 drift
+divide
+deri
+decreases
 match
 mirror
 many
@@ -4267,6 +4285,7 @@ manifest
 merge
 macroscopic
 microscopic
+materials
 error
 each
 execution
@@ -4855,6 +4874,7 @@ indicator
 increasing
 iterative
 integral
+increases
 returned
 result
 referred
@@ -5190,6 +5210,8 @@ reduce
 resources
 requiring
 refer
+restive
+resistance
 hints
 handled
 have
@@ -5730,6 +5752,8 @@ arrange
 arrangement
 amps
 accurate
+adjectives
+adverbs
 Under
 Unless
 Unbiased
@@ -6324,6 +6348,11 @@ counterexample
 concerned
 carrier
 conductiv
+conductor
+cylindrical
+conquer
+correct
+combined
 unnecessary
 used
 using
@@ -6918,6 +6947,11 @@ schools
 strings
 shorthand
 straight
+statements
+symbol
+substituted
+substitutions
+similar
 free
 for
 force
@@ -7381,6 +7415,7 @@ wordle
 weekly
 worth
 writing
+wire
 visu
 versus
 vector
@@ -7549,6 +7584,7 @@ volume
 vertex
 vectors
 view
+verbs
 Polymorphism
 Physics
 Particles
@@ -7833,6 +7869,9 @@ Per
 Probabilistic
 Placing
 Pumping
+Production
+Productions
+Parse
 Greek
 Given
 Gaussian
@@ -8048,6 +8087,8 @@ Give
 Generalized
 GNFA
 Generally
+Grammars
+Grammar
 Objects
 Other
 Original
@@ -8284,6 +8325,7 @@ Oxnard
 Optional
 Operating
 Ohm
+Operators
 Logic
 Linear
 Law
@@ -8509,6 +8551,7 @@ Lines
 Languages
 Let
 Lemma
+Langauges
 Quiz
 Quizzes
 Questions
@@ -9479,6 +9522,7 @@ Caveat
 Capacitor
 Capacitors
 Current
+Context
 lines
 leftmost
 last
@@ -10113,6 +10157,9 @@ guesswork
 gains
 generators
 generated
+generally
+grammar
+generate
 XOR
 Xor
 XNOR
@@ -11126,6 +11173,7 @@ Big
 Bayesians
 Best
 Build
+Below
 Kay
 Kepler
 Kinematics
@@ -11320,6 +11368,7 @@ Kelvin
 Khowarzmi
 Knowledge
 Kinetic
+Keywords
 Young
 York
 YS
@@ -11689,6 +11738,7 @@ JSp
 Joules
 Japanese
 January
+Junction
 zeros
 zhA
 zuq
